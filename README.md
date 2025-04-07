@@ -32,7 +32,7 @@ The dataset includes the following fields:
 - **Image URL**: Full-size image of the set.
 
 ## How to Use
-1. **Load the Dashboard**: Open the Power BI file or web application.
+1. **Load the Dashboard**: Open the Power BI file or [web application](https://app.powerbi.com/view?r=eyJrIjoiZTA5MWIxYTItM2U4YS00MDk5LThiMmMtYTE0M2U5NWIwZDQ5IiwidCI6ImRlMTM3ZmFmLTVmMDQtNDI1OC04ZjRmLTdhNDg0NDNiM2JiZCIsImMiOjZ9&disablecdnExpiration=1744054069).
 2. **Select LEGO Sets**: Use the dropdown menus to choose two LEGO sets for comparison.
 3. **Explore Insights**: View detailed comparisons and visualizations.
 
